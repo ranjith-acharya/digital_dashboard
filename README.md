@@ -1,6 +1,11 @@
 # Digital Dashboard
 
 A web-based digital dashboard built with Laravel, providing a comprehensive view of your data.
+<p align="left">
+  <img src="https://img.shields.io/github/languages/count/ranjith-acharya/digital_dashboard?style=for-the-badge">
+  <img src="https://img.shields.io/github/languages/top/ranjith-acharya/digital_dashboard?style=for-the-badge">
+  <img src="https://img.shields.io/github/last-commit/ranjith-acharya/digital_dashboard?style=for-the-badge">
+</p>
 
 ## Table of Contents
 - [About](#about)
